@@ -3,3 +3,4 @@ fitz
 streamlit
 requests
 BeautifulSoup
+* 
