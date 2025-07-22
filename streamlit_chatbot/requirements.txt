@@ -1,2 +1,5 @@
 google-generativeai
 fitz
+streamlit
+requests
+BeautifulSoup
