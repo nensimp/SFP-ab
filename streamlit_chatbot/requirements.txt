@@ -1,6 +1,5 @@
-google-generativeai
-fitz
 streamlit
+google-generativeai
 requests
-BeautifulSoup
-frontend
+beautifulsoup4
+PyMuPDF
